@@ -3,15 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Geolocation Example</title>
+    <title>Geolocation Map</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js" defer></script>
 </head>
 <body>
     <div class="container">
-        <h1>Geolocation Example</h1>
-        <button onclick="getLocation()">Get Location</button>
-        <p id="output"></p>
+        <button id="locateBtn">Locate Me</button>
+        <div id="output"></div>
+        <div id="map" style="display: none;"></div>
     </div>
-    <script src="script.js"></script>
 </body>
 </html>
