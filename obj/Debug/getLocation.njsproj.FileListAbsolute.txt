@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\getLocation\getLocation\obj\Debug\getLocation.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\getLocation\getLocation\obj\Debug\getLocation.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\getLocation\getLocation\bin\Microsoft.NodejsTools.WebRole.dll
